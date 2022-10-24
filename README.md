@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:four_leaf_clover:
 
 <!--
 **Hye-2-ni/Hye-2-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
