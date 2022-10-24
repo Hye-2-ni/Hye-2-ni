@@ -1,6 +1,4 @@
-### :four_leaf_clover:
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+### :four_leaf_clover: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **Hye-2-ni/Hye-2-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
